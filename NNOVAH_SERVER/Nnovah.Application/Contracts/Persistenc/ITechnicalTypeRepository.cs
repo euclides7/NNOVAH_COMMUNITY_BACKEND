@@ -3,7 +3,7 @@ using Nnovah.Comunity.Domain;
 
 namespace Nnovah.Application.Contracts.Persistenc
 {
-    public interface ITechnicalType : IGenericRepository<TechnicalType>
+    public interface ITechnicalTypeRepository : IGenericRepository<TechnicalType>
     {
     }
 }

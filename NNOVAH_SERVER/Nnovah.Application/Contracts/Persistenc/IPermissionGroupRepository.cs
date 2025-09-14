@@ -2,7 +2,7 @@
 
 namespace Nnovah.Comunity.Application.Contracts.Persistenc
 {
-    public interface IStates : IGenericRepository<States>
+    public interface IPermissionGroupRepository : IGenericRepository<PermissionGroup>
     {
     }
 }

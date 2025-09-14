@@ -2,7 +2,7 @@
 
 namespace Nnovah.Comunity.Application.Contracts.Persistenc
 {
-    public interface IPartnerType : IGenericRepository<PartnerType>
+    public interface ILicenseOrderRepository : IGenericRepository<LicenseOrder>
     {
     }
 }

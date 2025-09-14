@@ -1,10 +1,7 @@
 ﻿using AutoMapper;
 using Nnovah.Application.Features.User.Queries.GetUser;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Nnovah.Comunity.Domain;
+
 
 namespace Nnovah.Application.MappingProfile
 {
@@ -12,7 +9,7 @@ namespace Nnovah.Application.MappingProfile
     {
         public UserProfile()
         {
-            CreateMap<UserProfile,UserDTO>().ReverseMap();
+            CreateMap<User,UserDTO>().ReverseMap();
         }
     }
 }

@@ -3,252 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\iusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\iusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1FA36A1-DD6F-4A8E-87A9-EA3443451FE6}|Nnovah.comunity.API\\Nnovah.Comunity.API.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FA36A1-DD6F-4A8E-87A9-EA3443451FE6}|Nnovah.comunity.API\\Nnovah.Comunity.API.csproj|solutionrelative:nnovah.comunity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\iticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\iticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\itechnicaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\itechnicaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\itechnicalpartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\itechnicalpartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1FA36A1-DD6F-4A8E-87A9-EA3443451FE6}|Nnovah.comunity.API\\Nnovah.comunity.API.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1FA36A1-DD6F-4A8E-87A9-EA3443451FE6}|Nnovah.comunity.API\\Nnovah.comunity.API.csproj|solutionrelative:nnovah.comunity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1FA36A1-DD6F-4A8E-87A9-EA3443451FE6}|Nnovah.comunity.API\\Nnovah.comunity.API.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B1FA36A1-DD6F-4A8E-87A9-EA3443451FE6}|Nnovah.comunity.API\\Nnovah.comunity.API.csproj|solutionrelative:nnovah.comunity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.persistence\\databasecontext\\nnovahcomunitydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|solutionrelative:nnovah.comunity.persistence\\databasecontext\\nnovahcomunitydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\user\\queries\\getuser\\getuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\features\\user\\queries\\getuser\\getuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|solutionrelative:nnovah.comunity.persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7E458A3-0B6B-465D-B01A-4B114C58FDD8}|Nnovah.Comunity.Infrastruture\\Nnovah.Comunity.Infrastruture.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.infrastruture\\infrastrutureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7E458A3-0B6B-465D-B01A-4B114C58FDD8}|Nnovah.Comunity.Infrastruture\\Nnovah.Comunity.Infrastruture.csproj|solutionrelative:nnovah.comunity.infrastruture\\infrastrutureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.persistence\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|solutionrelative:nnovah.comunity.persistence\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.persistence\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|solutionrelative:nnovah.comunity.persistence\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\leads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\leads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.persistence\\databasecontext\\nnovahcomunitydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|solutionrelative:nnovah.comunity.persistence\\databasecontext\\nnovahcomunitydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7E458A3-0B6B-465D-B01A-4B114C58FDD8}|Nnovah.Comunity.Infrastruture\\Nnovah.Comunity.Infrastruture.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.infrastruture\\infrastrutureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E458A3-0B6B-465D-B01A-4B114C58FDD8}|Nnovah.Comunity.Infrastruture\\Nnovah.Comunity.Infrastruture.csproj|solutionrelative:nnovah.comunity.infrastruture\\infrastrutureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\licenseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\licenseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1FA36A1-DD6F-4A8E-87A9-EA3443451FE6}|Nnovah.comunity.API\\Nnovah.Comunity.API.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FA36A1-DD6F-4A8E-87A9-EA3443451FE6}|Nnovah.comunity.API\\Nnovah.Comunity.API.csproj|solutionrelative:nnovah.comunity.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\iusertyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\iusertyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\partnertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\partnertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\istatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\istatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\permissiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\permissiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\ilicenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\ilicenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\technicalpartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\technicalpartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\user\\queries\\getuser\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\features\\user\\queries\\getuser\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1FA36A1-DD6F-4A8E-87A9-EA3443451FE6}|Nnovah.comunity.API\\Nnovah.Comunity.API.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1FA36A1-DD6F-4A8E-87A9-EA3443451FE6}|Nnovah.comunity.API\\Nnovah.Comunity.API.csproj|solutionrelative:nnovah.comunity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\technicaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\technicaltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.persistence\\migrations\\20250914072818_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|solutionrelative:nnovah.comunity.persistence\\migrations\\20250914072818_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\communs\\baseentitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\communs\\baseentitie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.persistence\\migrations\\nnovahcomunitydatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB8456F-057E-420B-B298-2B9701729284}|Nnovah.Comunity.Persistence\\Nnovah.Comunity.Persistence.csproj|solutionrelative:nnovah.comunity.persistence\\migrations\\nnovahcomunitydatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\ipartnertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\ipartnertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\ipermissiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\ipermissiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\istates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\istates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\ipartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\ipartner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\ilicenseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\ilicenseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\ilicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\ilicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\ileads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\ileads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\contracts\\persistenc\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\contracts\\persistenc\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\leadsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\leadsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\licenseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\licenseprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\partnerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\partnerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\partnertypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\partnertypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\permissiongroupprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\permissiongroupprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\statesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\statesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\technicalpartnerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\technicalpartnerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\technicaltypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\technicaltypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\ticketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\ticketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\ticket\\queries\\getticket\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\ticket\\queries\\getticket\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\user\\queries\\getuser\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\user\\queries\\getuser\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\mappingprofile\\usertypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\mappingprofile\\usertypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\license\\queries\\getlicense\\licensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\license\\queries\\getlicense\\licensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\nnovah.comunity.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\nnovah.comunity.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\customer\\queries\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\customer\\queries\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\leads\\queries\\getleads\\leadsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\leads\\queries\\getleads\\leadsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\licenseorder\\queries\\getlicenseorder\\licenseorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\licenseorder\\queries\\getlicenseorder\\licenseorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\partner\\queries\\getpartner\\partnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\partner\\queries\\getpartner\\partnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\partnertype\\queries\\getpartnertype\\partnertypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\partnertype\\queries\\getpartnertype\\partnertypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\permissiongroup\\queries\\getpermissiongroup\\permissiongroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\permissiongroup\\queries\\getpermissiongroup\\permissiongroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\states\\queries\\getstates\\statesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\states\\queries\\getstates\\statesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\technicalpartner\\queries\\gettechnicalpartner\\technicalpartnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\technicalpartner\\queries\\gettechnicalpartner\\technicalpartnerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\technicaltype\\queries\\gettechnicaltype\\technicaltypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\technicaltype\\queries\\gettechnicaltype\\technicaltypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\usertype\\queries\\getusertype\\usertypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Application.csproj|solutionrelative:nnovah.application\\features\\usertype\\queries\\getusertype\\usertypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\nnovah.comunity.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\nnovah.comunity.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.comunity.domain\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C3ED1-E9CF-47C3-8BC7-5E487C679A4E}|Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj|solutionrelative:nnovah.comunity.domain\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|c:\\users\\laptop\\documents\\comunidade\\nnovah_community_backend\\nnovah_server\\nnovah.application\\features\\user\\queries\\getuser\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAFE121-376D-4286-BC0E-EE6F9EA8F8D9}|Nnovah.Application\\Nnovah.Comunity.Application.csproj|solutionrelative:nnovah.application\\features\\user\\queries\\getuser\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -258,125 +86,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IGenericRepository.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T20:15:41.508Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "UserTypeProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\UserTypeProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\UserTypeProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\UserTypeProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\UserTypeProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:29:35.257Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IUserType.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IUserType.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\IUserType.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IUserType.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\IUserType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\UserProfile.cs",
+              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T08:32:15.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUser.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IUser.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\IUser.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IUser.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\IUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T08:32:04.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ITicket.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ITicket.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\ITicket.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ITicket.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\ITicket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T08:31:53.589Z",
+              "WhenOpened": "2025-09-14T09:28:01.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ITechnicalType.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ITechnicalType.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\ITechnicalType.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ITechnicalType.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\ITechnicalType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Title": "GetUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\User\\Queries\\GetUser\\GetUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\User\\Queries\\GetUser\\GetUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\User\\Queries\\GetUser\\GetUserQueryHandler.cs",
+              "RelativeToolTip": "Nnovah.Application\\Features\\User\\Queries\\GetUser\\GetUserQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T08:31:45.004Z",
+              "WhenOpened": "2025-09-14T08:29:34.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ITechnicalPartner.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ITechnicalPartner.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\ITechnicalPartner.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ITechnicalPartner.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\ITechnicalPartner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T08:30:39.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.comunity.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Nnovah.comunity.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.comunity.API\\appsettings.json",
-              "RelativeToolTip": "Nnovah.comunity.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-12T08:13:12.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.comunity.API\\Program.cs",
               "RelativeDocumentMoniker": "Nnovah.comunity.API\\Program.cs",
               "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.comunity.API\\Program.cs",
               "RelativeToolTip": "Nnovah.comunity.API\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBIAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T07:41:14.738Z",
+              "WhenOpened": "2025-09-14T07:32:55.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Nnovah.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Nnovah.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T08:57:34.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersistenceServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Nnovah.Comunity.Persistence\\PersistenceServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\PersistenceServiceRegistration.cs",
+              "RelativeToolTip": "Nnovah.Comunity.Persistence\\PersistenceServiceRegistration.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T07:32:47.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Nnovah.Comunity.Persistence\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Nnovah.Comunity.Persistence\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T09:01:36.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Nnovah.Comunity.Persistence\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Nnovah.Comunity.Persistence\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T09:05:24.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IUserRepository.cs",
+              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T09:06:46.679Z",
               "EditorCaption": ""
             },
             {
@@ -387,690 +204,140 @@
               "RelativeDocumentMoniker": "Nnovah.Comunity.Persistence\\DatabaseContext\\NnovahComunityDatabaseContext.cs",
               "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\DatabaseContext\\NnovahComunityDatabaseContext.cs",
               "RelativeToolTip": "Nnovah.Comunity.Persistence\\DatabaseContext\\NnovahComunityDatabaseContext.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA5wCEAAAAvAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T09:29:37.446Z",
+              "WhenOpened": "2025-09-14T07:32:25.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "PersistenceServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\PersistenceServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Persistence\\PersistenceServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\PersistenceServiceRegistration.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Persistence\\PersistenceServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T09:02:24.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "InfrastrutureServicesRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Infrastruture\\InfrastrutureServicesRegistration.cs",
               "RelativeDocumentMoniker": "Nnovah.Comunity.Infrastruture\\InfrastrutureServicesRegistration.cs",
               "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Infrastruture\\InfrastrutureServicesRegistration.cs",
               "RelativeToolTip": "Nnovah.Comunity.Infrastruture\\InfrastrutureServicesRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAABBAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T08:40:11.51Z",
+              "WhenOpened": "2025-09-14T08:58:32.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ApplicationServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\ApplicationServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\ApplicationServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\ApplicationServiceRegistration.cs",
-              "RelativeToolTip": "Nnovah.Application\\ApplicationServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.comunity.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Nnovah.comunity.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.comunity.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Nnovah.comunity.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxkAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T19:25:22.358Z",
+              "WhenOpened": "2025-09-14T07:53:48.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IUserTypeRepository.cs",
+              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\IUserTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IUserTypeRepository.cs",
+              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\IUserTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T08:40:50.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Persistence\\Repository\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Persistence\\Repository\\GenericRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Title": "IStatesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IStatesRepository.cs",
+              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\IStatesRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IStatesRepository.cs",
+              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\IStatesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T09:22:27.476Z",
+              "WhenOpened": "2025-09-14T08:39:56.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Customer.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\Customer.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Customer.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Title": "ILicenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ILicenseRepository.cs",
+              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\ILicenseRepository.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ILicenseRepository.cs",
+              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\ILicenseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T14:58:17.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Partner.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Partner.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\Partner.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Partner.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\Partner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T19:20:40.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LicenseOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\LicenseOrder.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\LicenseOrder.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\LicenseOrder.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\LicenseOrder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:11:33.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PartnerType.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\PartnerType.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\PartnerType.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\PartnerType.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\PartnerType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T20:28:42.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "License.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\License.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\License.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\License.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\License.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T20:07:39.591Z",
+              "WhenOpened": "2025-09-14T08:39:05.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Leads.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Leads.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\Leads.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Leads.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\Leads.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Title": "GetUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\User\\Queries\\GetUser\\GetUserQuery.cs",
+              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\User\\Queries\\GetUser\\GetUserQuery.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\User\\Queries\\GetUser\\GetUserQuery.cs",
+              "RelativeToolTip": "Nnovah.Application\\Features\\User\\Queries\\GetUser\\GetUserQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:09:50.089Z",
+              "WhenOpened": "2025-09-14T08:27:22.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PermissionGroup.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\PermissionGroup.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\PermissionGroup.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\PermissionGroup.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\PermissionGroup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T19:20:46.85Z",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.comunity.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Nnovah.comunity.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.comunity.API\\appsettings.json",
+              "RelativeToolTip": "Nnovah.comunity.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-14T07:32:57.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "TechnicalPartner.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\TechnicalPartner.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\TechnicalPartner.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\TechnicalPartner.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\TechnicalPartner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "DocumentIndex": 17,
+              "Title": "NnovahComunityDatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\Migrations\\NnovahComunityDatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Nnovah.Comunity.Persistence\\Migrations\\NnovahComunityDatabaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\Migrations\\NnovahComunityDatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "Nnovah.Comunity.Persistence\\Migrations\\NnovahComunityDatabaseContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T19:24:48.269Z",
+              "WhenOpened": "2025-09-14T07:30:49.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserType.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\UserType.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\UserType.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\UserType.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\UserType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:04:47.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TechnicalType.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\TechnicalType.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\TechnicalType.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\TechnicalType.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\TechnicalType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T12:18:10.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BaseEntitie.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Communs\\BaseEntitie.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\Communs\\BaseEntitie.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Communs\\BaseEntitie.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\Communs\\BaseEntitie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T09:26:32.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ILicense.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ILicense.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\ILicense.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ILicense.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\ILicense.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:18:01.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ILicenseOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ILicenseOrder.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\ILicenseOrder.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ILicenseOrder.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\ILicenseOrder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:18:00.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IPartner.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IPartner.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\IPartner.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IPartner.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\IPartner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:18:03.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IStates.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IStates.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\IStates.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IStates.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\IStates.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:18:09.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IPermissionGroup.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IPermissionGroup.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\IPermissionGroup.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IPermissionGroup.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\IPermissionGroup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:18:07.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IPartnerType.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IPartnerType.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\IPartnerType.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\IPartnerType.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\IPartnerType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:18:05.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ILeads.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ILeads.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\ILeads.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ILeads.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\ILeads.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:17:59.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ICustomer.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ICustomer.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Contracts\\Persistenc\\ICustomer.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Contracts\\Persistenc\\ICustomer.cs",
-              "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\ICustomer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:17:56.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CustomerProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\CustomerProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\CustomerProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\CustomerProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\CustomerProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T19:04:13.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "LicenseProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\LicenseProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\LicenseProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\LicenseProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\LicenseProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T19:01:06.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "PartnerProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\PartnerProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\PartnerProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\PartnerProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\PartnerProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:58:15.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "PartnerTypeProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\PartnerTypeProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\PartnerTypeProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\PartnerTypeProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\PartnerTypeProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:53:54.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "TechnicalTypeProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\TechnicalTypeProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\TechnicalTypeProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\TechnicalTypeProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\TechnicalTypeProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:34:07.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "LeadsProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\LeadsProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\LeadsProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\LeadsProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\LeadsProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:38:25.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "TechnicalPartnerProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\TechnicalPartnerProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\TechnicalPartnerProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\TechnicalPartnerProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\TechnicalPartnerProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:34:45.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "StatesProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\StatesProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\StatesProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\StatesProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\StatesProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:35:39.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "PermissionGroupProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\PermissionGroupProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\PermissionGroupProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\PermissionGroupProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\PermissionGroupProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:36:19.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "TicketProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\TicketProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\TicketProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\TicketProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\TicketProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:33:33.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "UserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\UserProfile.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\MappingProfile\\UserProfile.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\MappingProfile\\UserProfile.cs",
-              "RelativeToolTip": "Nnovah.Application\\MappingProfile\\UserProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:30:24.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "TicketDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\Ticket\\Queries\\GetTicket\\TicketDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\Ticket\\Queries\\GetTicket\\TicketDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\Ticket\\Queries\\GetTicket\\TicketDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\Ticket\\Queries\\GetTicket\\TicketDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:12:27.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 18,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\User\\Queries\\GetUser\\UserDTO.cs",
               "RelativeDocumentMoniker": "Nnovah.Application\\Features\\User\\Queries\\GetUser\\UserDTO.cs",
               "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\User\\Queries\\GetUser\\UserDTO.cs",
               "RelativeToolTip": "Nnovah.Application\\Features\\User\\Queries\\GetUser\\UserDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:01:55.13Z",
+              "WhenOpened": "2025-09-14T07:28:35.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "LicenseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\License\\Queries\\GetLicense\\LicenseDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\License\\Queries\\GetLicense\\LicenseDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\License\\Queries\\GetLicense\\LicenseDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\License\\Queries\\GetLicense\\LicenseDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 16,
+              "Title": "20250914072818_initialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\Migrations\\20250914072818_initialMigration.cs",
+              "RelativeDocumentMoniker": "Nnovah.Comunity.Persistence\\Migrations\\20250914072818_initialMigration.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Persistence\\Migrations\\20250914072818_initialMigration.cs",
+              "RelativeToolTip": "Nnovah.Comunity.Persistence\\Migrations\\20250914072818_initialMigration.cs",
+              "ViewState": "AQIAAB4BAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:25:55.718Z",
+              "WhenOpened": "2025-09-14T07:28:18.616Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Nnovah.Comunity.Domain",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\Nnovah.Comunity.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-10T18:27:59.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "CustomerDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\Customer\\Queries\\CustomerDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\Customer\\Queries\\CustomerDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\Customer\\Queries\\CustomerDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\Customer\\Queries\\CustomerDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:27:29.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "LeadsDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\Leads\\Queries\\GetLeads\\LeadsDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\Leads\\Queries\\GetLeads\\LeadsDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\Leads\\Queries\\GetLeads\\LeadsDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\Leads\\Queries\\GetLeads\\LeadsDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:26:56.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "LicenseOrderDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\LicenseOrder\\Queries\\GetLicenseOrder\\LicenseOrderDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\LicenseOrder\\Queries\\GetLicenseOrder\\LicenseOrderDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\LicenseOrder\\Queries\\GetLicenseOrder\\LicenseOrderDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\LicenseOrder\\Queries\\GetLicenseOrder\\LicenseOrderDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:25:00.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "PartnerDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\Partner\\Queries\\GetPartner\\PartnerDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\Partner\\Queries\\GetPartner\\PartnerDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\Partner\\Queries\\GetPartner\\PartnerDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\Partner\\Queries\\GetPartner\\PartnerDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:23:46.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "PartnerTypeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\PartnerType\\Queries\\GetPartnerType\\PartnerTypeDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\PartnerType\\Queries\\GetPartnerType\\PartnerTypeDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\PartnerType\\Queries\\GetPartnerType\\PartnerTypeDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\PartnerType\\Queries\\GetPartnerType\\PartnerTypeDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:22:26.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "PermissionGroupDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\PermissionGroup\\Queries\\GetPermissionGroup\\PermissionGroupDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\PermissionGroup\\Queries\\GetPermissionGroup\\PermissionGroupDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\PermissionGroup\\Queries\\GetPermissionGroup\\PermissionGroupDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\PermissionGroup\\Queries\\GetPermissionGroup\\PermissionGroupDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:20:19.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "StatesDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\States\\Queries\\GetStates\\StatesDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\States\\Queries\\GetStates\\StatesDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\States\\Queries\\GetStates\\StatesDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\States\\Queries\\GetStates\\StatesDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:19:10.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "TechnicalPartnerDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\TechnicalPartner\\Queries\\GetTechnicalPartner\\TechnicalPartnerDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\TechnicalPartner\\Queries\\GetTechnicalPartner\\TechnicalPartnerDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\TechnicalPartner\\Queries\\GetTechnicalPartner\\TechnicalPartnerDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\TechnicalPartner\\Queries\\GetTechnicalPartner\\TechnicalPartnerDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:18:13.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "TechnicalTypeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\TechnicalType\\Queries\\GetTechnicalType\\TechnicalTypeDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\TechnicalType\\Queries\\GetTechnicalType\\TechnicalTypeDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\TechnicalType\\Queries\\GetTechnicalType\\TechnicalTypeDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\TechnicalType\\Queries\\GetTechnicalType\\TechnicalTypeDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T18:16:49.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Ticket.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\Ticket.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\Ticket.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T20:24:33.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\User.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\User.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\User.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T19:46:50.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "UserTypeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\UserType\\Queries\\GetUserType\\UserTypeDTO.cs",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Features\\UserType\\Queries\\GetUserType\\UserTypeDTO.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Features\\UserType\\Queries\\GetUserType\\UserTypeDTO.cs",
-              "RelativeToolTip": "Nnovah.Application\\Features\\UserType\\Queries\\GetUserType\\UserTypeDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:56:04.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "Nnovah.Comunity.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Nnovah.Comunity.Application.csproj",
-              "RelativeDocumentMoniker": "Nnovah.Application\\Nnovah.Comunity.Application.csproj",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Nnovah.Comunity.Application.csproj",
-              "RelativeToolTip": "Nnovah.Application\\Nnovah.Comunity.Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-10T17:48:33.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "States.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\States.cs",
-              "RelativeDocumentMoniker": "Nnovah.Comunity.Domain\\States.cs",
-              "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Comunity.Domain\\States.cs",
-              "RelativeToolTip": "Nnovah.Comunity.Domain\\States.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T20:06:03.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
             }
           ]
         }

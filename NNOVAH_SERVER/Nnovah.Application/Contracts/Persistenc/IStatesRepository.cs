@@ -2,7 +2,7 @@
 
 namespace Nnovah.Comunity.Application.Contracts.Persistenc
 {
-    public interface ILicense : IGenericRepository<License>
+    public interface IStatesRepository : IGenericRepository<States>
     {
     }
 }

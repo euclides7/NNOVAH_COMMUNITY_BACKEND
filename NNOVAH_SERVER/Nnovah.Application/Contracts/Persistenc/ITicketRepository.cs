@@ -3,7 +3,7 @@ using Nnovah.Comunity.Domain;
 
 namespace Nnovah.Application.Contracts.Persistenc
 {
-    public interface IUserType : IGenericRepository<UserType>
+    public interface ITicketRepository : IGenericRepository<Ticket>
     {
     }
 }

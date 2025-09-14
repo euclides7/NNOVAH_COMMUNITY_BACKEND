@@ -2,8 +2,7 @@
 
 namespace Nnovah.Comunity.Application.Contracts.Persistenc
 {
-    public interface ILeads : IGenericRepository<Leads>
+    public interface IPartnerTypeRepository : IGenericRepository<PartnerType>
     {
-
     }
 }

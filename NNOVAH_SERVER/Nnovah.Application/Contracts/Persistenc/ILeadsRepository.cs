@@ -2,7 +2,8 @@
 
 namespace Nnovah.Comunity.Application.Contracts.Persistenc
 {
-    public interface ILicenseOrder : IGenericRepository<LicenseOrder>
+    public interface ILeadsRepository : IGenericRepository<Leads>
     {
+
     }
 }
