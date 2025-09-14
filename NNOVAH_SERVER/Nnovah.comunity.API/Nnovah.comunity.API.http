@@ -1,0 +1,6 @@
+@Nnovah.comunity.API_HostAddress = http://localhost:5188
+
+GET {{Nnovah.comunity.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
