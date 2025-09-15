@@ -1,28 +1,62 @@
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 using Nnovah.Comunity.Application;
 using Nnovah.Comunity.Persistence;
 using Nnovah.Comunity.Infrastruture;
 using Nnovah.Application;
+
 var builder = WebApplication.CreateBuilder(args);
 
+// 🔑 Ler a chave do JWT (primeiro tenta variável de ambiente, depois appsettings.json)
+var jwtKey = Environment.GetEnvironmentVariable("Jwt__Key")
+             ?? builder.Configuration["Jwt:Key"];
+
+if (string.IsNullOrEmpty(jwtKey))
+{
+    throw new Exception("JWT Key não encontrada. Configure a variável de ambiente 'Jwt__Key' ou no appsettings.json em Jwt:Key.");
+}
+
 // Add services to the container.
- 
 builder.Services.AddApplicationServices();
 builder.Services.AddPersistenceServices(builder.Configuration);
 builder.Services.AddInfrastrutureServices(builder.Configuration);
+
 builder.Services.AddControllers();
+
+// 🔒 Configurar autenticação JWT
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = false, // podes ativar se tiveres issuer fixo
+        ValidateAudience = false, // idem para audience
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtKey))
+    };
+});
+
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("all", builder => builder.AllowAnyOrigin()
-    .AllowAnyHeader()
-    .AllowAnyMethod());
+    options.AddPolicy("all", policy => policy.AllowAnyOrigin()
+                                             .AllowAnyHeader()
+                                             .AllowAnyMethod());
 });
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+// Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+app.UseCors("all");
+
+// Swagger só em dev
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -31,6 +65,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+// 🚨 Importante: Autenticação tem que vir ANTES de Authorization
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
