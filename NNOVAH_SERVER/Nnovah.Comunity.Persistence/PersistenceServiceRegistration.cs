@@ -24,12 +24,24 @@ namespace Nnovah.Comunity.Persistence
 
             });
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddScoped<IAddressRepository, AddressRepository>();
+            services.AddScoped<IContactsRepository, ContactsRepository>();
+            services.AddScoped<ICustomerRepository, CustomerRepository>();
+            services.AddScoped<ILeadsRepository, LeadsRepository>();
+            services.AddScoped<ILicenseOrderRepository, LicenseOrderRepository>();
+            services.AddScoped<ILicenseRepository, LicenseRepository>();
+            services.AddScoped<IPartnerRepository, PartnerRepository>();
+            services.AddScoped<IPartnerTypeRepository, PartnerTypeRepository>();
+            services.AddScoped<IPermissionGroupRepository, PermissionGroupRepository>();
+            services.AddScoped<IRegionRepository, RegionRepository>();
+            services.AddScoped<IStatesRepository, StatesRepository>();
+            services.AddScoped<ITechnicalPartnerRepository, TechnicalPartnerRepository>();
+            services.AddScoped<ITicketRepository, TicketRepository>();
+            services.AddScoped<ITechnicalTypeRepository, TechnicalTypeRepository>();
             services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IUserTypeRepository, UserTypeRepository>();
             services.AddScoped<IPasswordService, PasswordService>();
             services.AddScoped<IJwtService, JwtService>();
-
-            //services.AddScoped<ILeaveRequestRepository, LeaveRequestRepository>();
-            //services.AddScoped<ILeaveAllocationRepository, LeaveAllocationRepository>();
             return services;
         }
     }
