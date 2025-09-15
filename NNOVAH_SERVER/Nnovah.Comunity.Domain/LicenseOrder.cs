@@ -9,4 +9,5 @@ namespace Nnovah.Comunity.Domain
         public int numberOrder { get; set; }
         public int State { get; set; }
 
-    } }
+    }
+}
