@@ -14,15 +14,7 @@
     <Folder Include="Features\Address\Queries\" />
     <Folder Include="Features\Contacts\Queries\" />
     <Folder Include="Features\LicenseOrder\Commands\" />
-    <Folder Include="Features\Region\" />
-    <Folder Include="Features\PartnerType\Commands\" />
-    <Folder Include="Features\Partner\Commands\" />
     <Folder Include="Features\PermissionGroup\Commands\" />
-    <Folder Include="Features\States\Commands\" />
-    <Folder Include="Features\TechnicalPartner\Commands\" />
-    <Folder Include="Features\TechnicalType\Commands\" />
-    <Folder Include="Features\Ticket\Commands\" />
-    <Folder Include="Features\UserType\Commands\" />
   </ItemGroup>
 
   <ItemGroup>

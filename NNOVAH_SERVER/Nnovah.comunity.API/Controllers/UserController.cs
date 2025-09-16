@@ -42,25 +42,7 @@ namespace Nnovah.Comunity.API.Controllers
         }
         [HttpGet("me")]
         [Authorize] // garante que só quem tem token válido acessa
-        public IActionResult GetPartner()
-        {
-            // Pegar o token do header
-            var token = Request.Headers["Authorization"].ToString().Replace("Bearer ", "");
-
-            var handler = new JwtSecurityTokenHandler();
-            var jwtToken = handler.ReadJwtToken(token);
-
-            // Extrair o idPartner do claim
-            var idPartnerClaim = jwtToken.Claims.FirstOrDefault(c => c.Type == "idPartner");
-            if (idPartnerClaim == null)
-                return Unauthorized();
-
-            var idPartner = idPartnerClaim.Value;
-
-            // Aqui podes buscar info no BD usando o idPartner
-            return Ok(new { IdPartner = idPartner });
-        }
-
+     
         // POST api/<UserController>
         [HttpPost]
         public void Post([FromBody] string value)
