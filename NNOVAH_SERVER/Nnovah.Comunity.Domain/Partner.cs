@@ -5,9 +5,9 @@ namespace Nnovah.Comunity.Domain
     public class Partner : BaseEntity
     {
         public string Name { get; set; }
-        public int Nif { get; set; }
-        public string AddressId { get; set; }
-        public string ContactId { get; set; }
+        public string Nif { get; set; }
+        public int AddressId { get; set; }
+        public int ContactId { get; set; }
         public int PartnerType { get; set; }
 
     }

@@ -22,6 +22,87 @@ namespace Nnovah.Comunity.Persistence.Migrations
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
 
+            modelBuilder.Entity("Nnovah.Comunity.Domain.Address", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("Country")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("DateCreated")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<DateTime>("DateModified")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<string>("Municipality")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Province")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<int>("State")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Street")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<int>("User")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Address");
+                });
+
+            modelBuilder.Entity("Nnovah.Comunity.Domain.Contacts", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("DateCreated")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<DateTime>("DateModified")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Email1")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Phone")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Phone2")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.Property<int>("State")
+                        .HasColumnType("int");
+
+                    b.Property<int>("User")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Contacts");
+                });
+
             modelBuilder.Entity("Nnovah.Comunity.Domain.Customer", b =>
                 {
                     b.Property<int>("Id")
@@ -59,6 +140,9 @@ namespace Nnovah.Comunity.Persistence.Migrations
                     b.Property<int>("State")
                         .HasColumnType("int");
 
+                    b.Property<int>("User")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.ToTable("Customer");
@@ -76,9 +160,6 @@ namespace Nnovah.Comunity.Persistence.Migrations
                         .HasColumnType("int");
 
                     b.Property<int>("ContactId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("CustomerNumber")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("DateCreated")
@@ -102,6 +183,9 @@ namespace Nnovah.Comunity.Persistence.Migrations
                         .HasColumnType("int");
 
                     b.Property<int>("State")
+                        .HasColumnType("int");
+
+                    b.Property<int>("User")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -154,6 +238,9 @@ namespace Nnovah.Comunity.Persistence.Migrations
                     b.Property<int>("Terminal")
                         .HasColumnType("int");
 
+                    b.Property<int>("User")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("startDate")
                         .HasColumnType("datetime(6)");
 
@@ -183,6 +270,9 @@ namespace Nnovah.Comunity.Persistence.Migrations
                         .HasColumnType("int");
 
                     b.Property<int>("State")
+                        .HasColumnType("int");
+
+                    b.Property<int>("User")
                         .HasColumnType("int");
 
                     b.Property<int>("numberOrder")
@@ -228,6 +318,9 @@ namespace Nnovah.Comunity.Persistence.Migrations
                     b.Property<int>("State")
                         .HasColumnType("int");
 
+                    b.Property<int>("User")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.ToTable("Partner");
@@ -252,6 +345,9 @@ namespace Nnovah.Comunity.Persistence.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<int>("State")
+                        .HasColumnType("int");
+
+                    b.Property<int>("User")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -288,6 +384,9 @@ namespace Nnovah.Comunity.Persistence.Migrations
                     b.Property<int>("State")
                         .HasColumnType("int");
 
+                    b.Property<int>("User")
+                        .HasColumnType("int");
+
                     b.Property<int>("UserType")
                         .HasColumnType("int");
 
@@ -314,16 +413,19 @@ namespace Nnovah.Comunity.Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
-                    b.Property<int>("LeadState")
-                        .HasColumnType("int");
+                    b.Property<bool>("LeadState")
+                        .HasColumnType("tinyint(1)");
 
-                    b.Property<int>("LicenceOrderState")
-                        .HasColumnType("int");
+                    b.Property<bool>("LicenceOrderState")
+                        .HasColumnType("tinyint(1)");
 
-                    b.Property<int>("LicenseState")
-                        .HasColumnType("int");
+                    b.Property<bool>("LicenseState")
+                        .HasColumnType("tinyint(1)");
 
                     b.Property<int>("State")
+                        .HasColumnType("int");
+
+                    b.Property<int>("User")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -355,6 +457,10 @@ namespace Nnovah.Comunity.Persistence.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
+                    b.Property<string>("Nif")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
                     b.Property<int>("Partner")
                         .HasColumnType("int");
 
@@ -362,6 +468,9 @@ namespace Nnovah.Comunity.Persistence.Migrations
                         .HasColumnType("int");
 
                     b.Property<int>("TypeTechnical")
+                        .HasColumnType("int");
+
+                    b.Property<int>("User")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -388,6 +497,9 @@ namespace Nnovah.Comunity.Persistence.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<int>("State")
+                        .HasColumnType("int");
+
+                    b.Property<int>("User")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -429,9 +541,11 @@ namespace Nnovah.Comunity.Persistence.Migrations
                     b.Property<int>("Ticketstate")
                         .HasColumnType("int");
 
-                    b.Property<string>("Urgency")
-                        .IsRequired()
-                        .HasColumnType("longtext");
+                    b.Property<int>("Urgency")
+                        .HasColumnType("int");
+
+                    b.Property<int>("User")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -470,6 +584,9 @@ namespace Nnovah.Comunity.Persistence.Migrations
                     b.Property<int>("State")
                         .HasColumnType("int");
 
+                    b.Property<int>("User")
+                        .HasColumnType("int");
+
                     b.Property<string>("UserCode")
                         .IsRequired()
                         .HasColumnType("longtext");
@@ -501,6 +618,9 @@ namespace Nnovah.Comunity.Persistence.Migrations
                         .HasColumnType("longtext");
 
                     b.Property<int>("State")
+                        .HasColumnType("int");
+
+                    b.Property<int>("User")
                         .HasColumnType("int");
 
                     b.HasKey("Id");

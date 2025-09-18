@@ -14,6 +14,7 @@ namespace Nnovah.Comunity.Application.Features.Customer.Commands.CreateCustomer
         public int CustomerNumber { get; set; }
         public int Partner { get; set; }
         public int State { get; set; }
+        public int User { get; set; }
         public int AddressId { get; set; }
         public int ContactId { get; set; }
     }

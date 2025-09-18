@@ -28,6 +28,8 @@ namespace Nnovah.Comunity.Persistence.DatabaseContext
         public DbSet<License> License { get; set; }
         public DbSet<Leads> Leads { get; set; }
         public DbSet<Customer> Customer { get; set; }
+        public DbSet<Address> Address { get; set; }
+        public DbSet<Contacts> Contacts { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(NnovahComunityDatabaseContext).Assembly);

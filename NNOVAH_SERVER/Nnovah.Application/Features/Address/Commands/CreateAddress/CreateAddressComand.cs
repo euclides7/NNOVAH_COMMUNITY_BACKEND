@@ -13,5 +13,6 @@ namespace Nnovah.Comunity.Application.Features.Address.Commands.CreateAddress
         public string Province { get; set; }
         public int Country { get; set; }
         public string Municipality { get; set; }
+
     }
 }

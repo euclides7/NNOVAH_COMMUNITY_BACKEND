@@ -33,7 +33,7 @@ namespace Nnovah.Comunity.API.Controllers
 
         // POST api/<AddressController>
  
-        [HttpPost("Address")]
+        [HttpPost("CreateAddress")]
         public async Task<ActionResult> Post(CreateAddressComand createAddressComand)
         {
             var response = await _mediator.Send(createAddressComand);

@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using MediatR;
+using Microsoft.AspNetCore.Mvc;
+using Nnovah.Comunity.Application.Features.PartnerType.Commands.CreatePartnerType;
+using Nnovah.Comunity.Application.Features.User.Commands.CreateUser;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,6 +11,12 @@ namespace Nnovah.Comunity.API.Controllers
     [ApiController]
     public class PartnerTypeController : ControllerBase
     {
+        private readonly IMediator _mediator;
+
+        public PartnerTypeController(IMediator mediator)
+        {
+            this._mediator = mediator;
+        }
         // GET: api/<PartnerTypeController>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -23,9 +32,11 @@ namespace Nnovah.Comunity.API.Controllers
         }
 
         // POST api/<PartnerTypeController>
-        [HttpPost]
-        public void Post([FromBody] string value)
+        [HttpPost("CreatePartnerType")]
+        public async Task<ActionResult> Post(CreatePartnerTypeCommand createPartnerTypeCommand)
         {
+            var response = await _mediator.Send(createPartnerTypeCommand);
+            return CreatedAtAction(nameof(Get), new { id = response });
         }
 
         // PUT api/<PartnerTypeController>/5

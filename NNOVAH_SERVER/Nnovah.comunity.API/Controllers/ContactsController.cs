@@ -33,7 +33,7 @@ namespace Nnovah.Comunity.API.Controllers
         }
 
         // POST api/<ContactsController>
-        [HttpPost("Contacts")]
+        [HttpPost("CreateContacts")]
         public async Task<ActionResult> Post(CreateContactsCommand createContactsCommand)
         {
             var response = await _mediator.Send(createContactsCommand);

@@ -32,7 +32,7 @@ namespace Nnovah.Comunity.API.Controllers
         }
 
         // POST api/<CustomerController>
-        [HttpPost("Customer")]
+        [HttpPost("CreateCustomer")]
         public async Task<ActionResult> Post(CreateCustomerCommand createCustomerCommand)
         {
             var response = await _mediator.Send(createCustomerCommand);
