@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Nnovah.Application.Features.PartnerType.Queries.GetPartnerType;
+using Nnovah.Comunity.Application.Features.PartnerType.Commands.CreatePartnerType;
 using Nnovah.Comunity.Domain;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,7 @@ namespace Nnovah.Application.MappingProfile
         public PartnerTypeProfile()
         {
             CreateMap<PartnerType, PartnerTypeDTO>().ReverseMap();  
+            CreateMap<CreatePartnerTypeCommand, PartnerType>().ReverseMap();  
         }
     }
 }

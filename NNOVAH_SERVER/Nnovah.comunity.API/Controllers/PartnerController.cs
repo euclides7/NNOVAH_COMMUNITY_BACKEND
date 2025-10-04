@@ -1,7 +1,14 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Nnovah.Application.Features.Partner.Queries.GetPartner;
+using Nnovah.Comunity.Application.Features.Address.Commands.UpdateAddress;
+using Nnovah.Comunity.Application.Features.Address.Queries.GetAddress;
 using Nnovah.Comunity.Application.Features.Customer.Commands.CreateCustomer;
+using Nnovah.Comunity.Application.Features.Customer.Commands.DeleteCustomer;
 using Nnovah.Comunity.Application.Features.Partner.Commands.CreatePartner;
+using Nnovah.Comunity.Application.Features.Partner.Commands.DeletePartner;
+using Nnovah.Comunity.Application.Features.Partner.Commands.UpdatePartner;
+using Nnovah.Comunity.Application.Features.Partner.Queries.GetPartner;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -19,9 +26,9 @@ namespace Nnovah.Comunity.API.Controllers
         }
         // GET: api/<PartnerController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<List<PartnerDTO>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return await this._mediator.Send(new GetPartnerQuerie());
         }
 
         // GET api/<PartnerController>/5
@@ -42,14 +49,19 @@ namespace Nnovah.Comunity.API.Controllers
 
         // PUT api/<PartnerController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public async Task<IActionResult> Put(int id, [FromBody] UpdatePartnerCommand command)
         {
+            command.Id = id;
+            await _mediator.Send(command);
+            return NoContent();
         }
-
         // DELETE api/<PartnerController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<ActionResult> Delete(int id)
         {
+            var command = new DeletePartnerCommand { Id = id };
+            await _mediator.Send(command);
+            return NoContent();
         }
     }
 }

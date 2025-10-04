@@ -11,6 +11,10 @@ namespace Nnovah.Comunity.Domain
         public int State { get; set; }
         public int AddressId { get; set; }
         public int ContactId { get; set; }
+        public virtual Partner PartnerEntity { get; set; }
+        public virtual Address Address { get; set; }
+        public virtual Contacts Contact { get; set; }
+
 
     }
 }

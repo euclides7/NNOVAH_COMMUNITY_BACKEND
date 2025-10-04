@@ -2,7 +2,11 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Nnovah.Comunity.Application.Features.Address.Commands.CreateAddress;
+using Nnovah.Comunity.Application.Features.Address.Commands.UpdateAddress;
+using Nnovah.Comunity.Application.Features.Address.Queries.GetAddress;
 using Nnovah.Comunity.Application.Features.Contacts.Commands.CreateContacts;
+using Nnovah.Comunity.Application.Features.Contacts.Commands.UpdateContacts;
+using Nnovah.Comunity.Application.Features.Contacts.Queries.GetContacts;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -18,21 +22,13 @@ namespace Nnovah.Comunity.API.Controllers
         {
             this._mediator = mediator;
         }
-        // GET: api/<ContactsController>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<List<ContactsDTO>> Get()
         {
-            return new string[] { "value1", "value2" };
+            var contacts = await _mediator.Send(new GetContactsQuerie());
+            return contacts;
         }
-
-        // GET api/<ContactsController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/<ContactsController>
+ 
         [HttpPost("CreateContacts")]
         public async Task<ActionResult> Post(CreateContactsCommand createContactsCommand)
         {
@@ -41,11 +37,14 @@ namespace Nnovah.Comunity.API.Controllers
         }
 
         // PUT api/<ContactsController>/5
+        
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public async Task<IActionResult> Put(int id, [FromBody] UpdateContactsCommand command)
         {
+              command.Id= id;
+            await _mediator.Send(command);
+            return NoContent();
         }
-
         // DELETE api/<ContactsController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)

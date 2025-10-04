@@ -1,4 +1,5 @@
-﻿using Nnovah.Application.Contracts.Persistenc;
+﻿using Microsoft.EntityFrameworkCore;
+using Nnovah.Application.Contracts.Persistenc;
 using Nnovah.Comunity.Domain;
 using Nnovah.Comunity.Persistence.DatabaseContext;
 using System;
@@ -13,6 +14,26 @@ namespace Nnovah.Comunity.Persistence.Repository
     {
         public CustomerRepository(NnovahComunityDatabaseContext context) : base(context)
         {
+        }
+
+        public async Task<List<Customer>> GetByIdWithRelationsAsync(string id)
+        {
+            return await _context.Customer
+                .Include(c => c.PartnerEntity)
+                .Include(c => c.Address)
+                .Include(c => c.Contact)
+                .Where(c => c.Id == Convert.ToInt32(id)) 
+                .ToListAsync();
+        }
+
+
+        public async Task<List<Customer>> GetWithRelationsAsync()
+        {
+            return await _context.Customer
+                .Include(c => c.PartnerEntity)
+                .Include(c => c.Address)
+                .Include(c => c.Contact)
+                .ToListAsync();
         }
     }
 }

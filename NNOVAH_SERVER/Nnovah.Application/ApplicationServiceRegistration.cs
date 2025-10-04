@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using Nnovah.Comunity.Application.Contracts.Security;
 using System;
 using System.Collections;
 using System.Collections.Generic;

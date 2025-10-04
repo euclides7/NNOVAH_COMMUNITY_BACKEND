@@ -1,6 +1,11 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Nnovah.Comunity.Application.Features.Address.Commands.CreateAddress;
+using Nnovah.Comunity.Application.Features.Address.Commands.UpdateAddress;
+using Nnovah.Comunity.Application.Features.Address.Queries.GetAddress;
+using Nnovah.Comunity.Application.Features.Contacts.Commands.UpdateContacts;
+using Nnovah.Comunity.Application.Features.Customer.Queries.GetCustomer;
+using Nnovah.Comunity.Application.Features.Customer.Queries.GetCustomerQuery;
 using Nnovah.Comunity.Application.Features.User.Commands.CreateUser;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -17,11 +22,12 @@ namespace Nnovah.Comunity.API.Controllers
         {
             this._mediator = mediator;
         }
-        // GET: api/<AddressController>
+    
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<List<AddressDTO>> Get()
         {
-            return new string[] { "value1", "value2" };
+            var address = await _mediator.Send(new GetAddressQuerie());
+            return address;
         }
 
         // GET api/<AddressController>/5
@@ -42,10 +48,12 @@ namespace Nnovah.Comunity.API.Controllers
 
         // PUT api/<AddressController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public async Task<IActionResult> Put(int id, [FromBody] UpdateAddressCommand command)
         {
+            command.Id = id;
+            await _mediator.Send(command);
+            return NoContent();
         }
-
         // DELETE api/<AddressController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)

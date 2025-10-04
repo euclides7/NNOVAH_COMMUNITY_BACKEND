@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using MediatR;
+using Microsoft.AspNetCore.Mvc;
+using Nnovah.Comunity.Application.Features.States.Commands.CreateStates;
+using Nnovah.Comunity.Application.Features.TechnicalPartner.Commands.CreateTechnicalPartner;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,6 +11,12 @@ namespace Nnovah.Comunity.API.Controllers
     [ApiController]
     public class TechnicalPartnerController : ControllerBase
     {
+        private readonly IMediator _mediator;
+
+        public TechnicalPartnerController(IMediator mediator)
+        {
+            this._mediator = mediator;
+        }
         // GET: api/<TechnicalPartnerController>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -23,10 +32,13 @@ namespace Nnovah.Comunity.API.Controllers
         }
 
         // POST api/<TechnicalPartnerController>
-        [HttpPost]
-        public void Post([FromBody] string value)
+        [HttpPost("CreateTechnicalPartner")]
+        public async Task<ActionResult> Post(CreateTechnicalPartnerCommand createTechnicalPartnerCommand)
         {
+            var response = await _mediator.Send(createTechnicalPartnerCommand);
+            return CreatedAtAction(nameof(Get), new { id = response });
         }
+
 
         // PUT api/<TechnicalPartnerController>/5
         [HttpPut("{id}")]

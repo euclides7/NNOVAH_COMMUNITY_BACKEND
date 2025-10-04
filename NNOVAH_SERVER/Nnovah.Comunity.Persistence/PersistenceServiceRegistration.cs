@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Nnovah.Application.Contracts.Persistenc;
 using Nnovah.Comunity.Application.Contracts.Persistenc;
 using Nnovah.Comunity.Application.Contracts.Persistenc.Security;
+using Nnovah.Comunity.Application.Contracts.Security;
 using Nnovah.Comunity.Persistence.DatabaseContext;
 using Nnovah.Comunity.Persistence.Repository;
 using Nnovah.Comunity.Persistence.Security;
@@ -16,6 +17,16 @@ namespace Nnovah.Comunity.Persistence
     {
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services, IConfiguration configuration)
         {
+            var idProtectorKey = Environment.GetEnvironmentVariable("Jwt__Key")
+                             ?? configuration["Jwt:Key"];
+
+            if (string.IsNullOrEmpty(idProtectorKey))
+            {
+                throw new Exception("JWT Key não encontrada. Configure a variável de ambiente 'Jwt__Key' ou no appsettings.json em Jwt:Key.");
+            }
+
+            // Regista o IIdProtector
+            services.AddSingleton<IIdProtector>(sp => new AesIdProtector(idProtectorKey));
             var connectionString = configuration.GetConnectionString("NnovahComunityConnectionString");
 
             services.AddDbContext<NnovahComunityDatabaseContext>(options =>

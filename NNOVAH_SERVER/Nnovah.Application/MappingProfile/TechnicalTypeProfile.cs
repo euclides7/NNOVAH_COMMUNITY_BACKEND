@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Nnovah.Application.Features.TechnicalPartner.Queries.GetTechnicalPartner;
+using Nnovah.Comunity.Application.Features.TechnicalType.Commands.CreateTechnicalType;
 using Nnovah.Comunity.Domain;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,7 @@ namespace Nnovah.Application.MappingProfile
         public TechnicalTypeProfile()
         {
             CreateMap<TechnicalPartner,TechnicalPartnerDTO>().ReverseMap();
+            CreateMap<CreateTechnicalTypeCommand, TechnicalType>().ReverseMap();
         }
     }
 }

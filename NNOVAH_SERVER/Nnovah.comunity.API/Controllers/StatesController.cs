@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using MediatR;
+using Microsoft.AspNetCore.Mvc;
+using Nnovah.Comunity.Application.Features.PartnerType.Commands.CreatePartnerType;
+using Nnovah.Comunity.Application.Features.States.Commands.CreateStates;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,6 +11,12 @@ namespace Nnovah.Comunity.API.Controllers
     [ApiController]
     public class StatesController : ControllerBase
     {
+        private readonly IMediator _mediator;
+
+        public StatesController(IMediator mediator)
+        {
+            this._mediator = mediator;
+        }
         // GET: api/<StatesController>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -23,9 +32,11 @@ namespace Nnovah.Comunity.API.Controllers
         }
 
         // POST api/<StatesController>
-        [HttpPost]
-        public void Post([FromBody] string value)
+        [HttpPost("CreateStates")]
+        public async Task<ActionResult> Post(CreateStatesCommand createStatesCommand)
         {
+            var response = await _mediator.Send(createStatesCommand);
+            return CreatedAtAction(nameof(Get), new { id = response });
         }
 
         // PUT api/<StatesController>/5

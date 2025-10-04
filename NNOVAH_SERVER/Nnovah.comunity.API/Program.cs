@@ -3,15 +3,16 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using Nnovah.Comunity.Application;
 using Nnovah.Comunity.Persistence;
+using Nnovah.Comunity.Persistence.Security;
 using Nnovah.Comunity.Infrastruture;
 using Nnovah.Application;
+using Nnovah.Comunity.Application.Contracts.Security;
 
 var builder = WebApplication.CreateBuilder(args);
-
-// 🔑 Ler a chave do JWT (primeiro tenta variável de ambiente, depois appsettings.json)
 var jwtKey = Environment.GetEnvironmentVariable("Jwt__Key")
              ?? builder.Configuration["Jwt:Key"];
-
+builder.Services.AddSingleton<IIdProtector>(sp =>
+    new AesIdProtector(jwtKey.ToString()));
 if (string.IsNullOrEmpty(jwtKey))
 {
     throw new Exception("JWT Key não encontrada. Configure a variável de ambiente 'Jwt__Key' ou no appsettings.json em Jwt:Key.");

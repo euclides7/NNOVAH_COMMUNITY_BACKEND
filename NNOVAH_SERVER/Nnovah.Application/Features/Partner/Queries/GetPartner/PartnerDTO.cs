@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Nnovah.Application.Features.Partner.Queries.GetPartner
 {
-    internal class PartnerDTO
+    public class PartnerDTO
     {
-    }
+    public string EncryptedId { get; set; } 
+    public string Name { get; set; }
+    public string Nif { get; set; }
+}
 }

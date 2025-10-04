@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Nnovah.Application.Features.States.Queries.GetStates;
+using Nnovah.Comunity.Application.Features.States.Commands.CreateStates;
 using Nnovah.Comunity.Domain;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,7 @@ namespace Nnovah.Application.MappingProfile
         public StatesProfile()
         {
             CreateMap<States, StatesDTO>().ReverseMap();
+            CreateMap<CreateStatesCommand, States>().ReverseMap();
         }
     }
 }

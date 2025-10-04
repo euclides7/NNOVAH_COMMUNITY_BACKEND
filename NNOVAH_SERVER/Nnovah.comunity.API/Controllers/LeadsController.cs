@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using MediatR;
+using Microsoft.AspNetCore.Mvc;
+using Nnovah.Comunity.Application.Features.Leads.Commands.CreateLeads;
+using Nnovah.Comunity.Application.Features.PartnerType.Commands.CreatePartnerType;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,6 +11,12 @@ namespace Nnovah.Comunity.API.Controllers
     [ApiController]
     public class LeadsController : ControllerBase
     {
+        private readonly IMediator _mediator;
+
+        public LeadsController(IMediator mediator)
+        {
+            this._mediator = mediator;
+        }
         // GET: api/<LeadsController>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -29,9 +38,11 @@ namespace Nnovah.Comunity.API.Controllers
         }
 
         // PUT api/<LeadsController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPost("CreateLeads")]
+        public async Task<ActionResult> Post(CreateLeadsCommand createLeadsCommand)
         {
+            var response = await _mediator.Send(createLeadsCommand);
+            return CreatedAtAction(nameof(Get), new { id = response });
         }
 
         // DELETE api/<LeadsController>/5

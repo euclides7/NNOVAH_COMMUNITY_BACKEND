@@ -1,7 +1,15 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using Nnovah.Application.Features.User.Queries.GetUser;
+using Nnovah.Comunity.Application.Contracts.Security;
 using Nnovah.Comunity.Application.Features.Customer.Commands.CreateCustomer;
+using Nnovah.Comunity.Application.Features.Customer.Commands.DeleteCustomer;
+using Nnovah.Comunity.Application.Features.Customer.Commands.UpdateCustomer;
+using Nnovah.Comunity.Application.Features.Customer.Queries.GetCustomer;
+using Nnovah.Comunity.Application.Features.Customer.Queries.GetCustomerDetail;
+using Nnovah.Comunity.Application.Features.Customer.Queries.GetCustomerQuery;
 using Nnovah.Comunity.Application.Features.User.Commands.CreateUser;
+using Nnovah.Comunity.Application.Features.User.Queries.GetUser;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -12,26 +20,27 @@ namespace Nnovah.Comunity.API.Controllers
     public class CustomerController : ControllerBase
     {
         private readonly IMediator _mediator;
-
-        public CustomerController(IMediator mediator    )
+        private readonly IIdProtector _idProtector;
+        public CustomerController(IMediator mediator, IIdProtector idProtector)
         {
             this._mediator = mediator;
+            _idProtector = idProtector;
         }
-        // GET: api/<CustomerController>
+
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<List<CustomerDTO>> Get()
         {
-            return new string[] { "value1", "value2" };
+            var command = await _mediator.Send(new GetCustomerQuery());
+            return command;
         }
-
-        // GET api/<CustomerController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<List<CustomerDetailDTO>> Get(string id)
         {
-            return "value";
+            var encryptedId = _idProtector.Decrypt(id);
+            var command = await _mediator.Send(new GetCustomerDetailQuery(encryptedId.ToString()));
+            return command;
         }
 
-        // POST api/<CustomerController>
         [HttpPost("CreateCustomer")]
         public async Task<ActionResult> Post(CreateCustomerCommand createCustomerCommand)
         {
@@ -40,15 +49,27 @@ namespace Nnovah.Comunity.API.Controllers
         }
 
         // PUT api/<CustomerController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpPut("{encryptedId}")]
+
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesDefaultResponseType]
+
+        public async Task<IActionResult> Put(string encryptedId, [FromBody] UpdateCustomerCommand command)
         {
+            var id = _idProtector.Decrypt(encryptedId); // converte EncryptedId para Id interno
+            command.Id = id;
+            await _mediator.Send(command);
+            return NoContent();
         }
 
         // DELETE api/<CustomerController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async Task<ActionResult> Delete(int id)
         {
+            var command = new DeleteCustomerCommand { Id = id };
+            await _mediator.Send(command);
+            return NoContent();
         }
     }
 }

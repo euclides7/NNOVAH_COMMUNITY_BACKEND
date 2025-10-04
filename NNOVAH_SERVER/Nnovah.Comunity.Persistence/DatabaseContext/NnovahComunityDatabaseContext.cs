@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Nnovah.Comunity.Domain;
 using Nnovah.Comunity.Domain.Communs;
+using Nnovah.Comunity.Persistence.Configurations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,8 +31,10 @@ namespace Nnovah.Comunity.Persistence.DatabaseContext
         public DbSet<Customer> Customer { get; set; }
         public DbSet<Address> Address { get; set; }
         public DbSet<Contacts> Contacts { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(NnovahComunityDatabaseContext).Assembly);
             base.OnModelCreating(modelBuilder);
         }

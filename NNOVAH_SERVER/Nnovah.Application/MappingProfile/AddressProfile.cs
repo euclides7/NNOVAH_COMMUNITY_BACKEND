@@ -1,5 +1,8 @@
 ﻿using AutoMapper;
 using Nnovah.Comunity.Application.Features.Address.Commands.CreateAddress;
+using Nnovah.Comunity.Application.Features.Address.Commands.UpdateAddress;
+using Nnovah.Comunity.Application.Features.Address.Queries.GetAddress;
+using Nnovah.Comunity.Application.Features.Contacts.Commands.UpdateContacts;
 using Nnovah.Comunity.Domain;
 using System;
 using System.Collections.Generic;
@@ -14,6 +17,8 @@ namespace Nnovah.Comunity.Application.MappingProfile
         public AddressProfile()
         {
             CreateMap<CreateAddressComand,Address>().ReverseMap();
+            CreateMap<AddressDTO,Address>().ReverseMap();
+            CreateMap<UpdateAddressCommand,Address>().ReverseMap();
         }
     }
 }

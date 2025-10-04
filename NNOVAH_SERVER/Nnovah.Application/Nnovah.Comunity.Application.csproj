@@ -11,8 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Features\Address\Queries\" />
-    <Folder Include="Features\Contacts\Queries\" />
     <Folder Include="Features\LicenseOrder\Commands\" />
     <Folder Include="Features\PermissionGroup\Commands\" />
   </ItemGroup>
