@@ -166,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -195,6 +195,14 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CustomerRepository.cs",
@@ -204,8 +212,7 @@
               "RelativeToolTip": "Nnovah.Comunity.Persistence\\Repository\\CustomerRepository.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T20:04:31.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T20:04:31.648Z"
             },
             {
               "$type": "Document",
@@ -230,12 +237,7 @@
               "RelativeToolTip": "Nnovah.Application\\MappingProfile\\CustomerProfile.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:55:30.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+              "WhenOpened": "2025-10-02T19:55:30.126Z"
             },
             {
               "$type": "Document",
@@ -247,8 +249,7 @@
               "RelativeToolTip": "Nnovah.Application\\MappingProfile\\PartnerProfile.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAABoAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T17:35:22.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T17:35:22.812Z"
             },
             {
               "$type": "Document",
@@ -260,8 +261,7 @@
               "RelativeToolTip": "Nnovah.Comunity.Domain\\Partner.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:09:57.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T13:09:57.688Z"
             },
             {
               "$type": "Document",
@@ -273,8 +273,7 @@
               "RelativeToolTip": "Nnovah.Application\\Contracts\\Persistenc\\IPartnerRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:51:46.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T19:51:46.319Z"
             },
             {
               "$type": "Document",
@@ -286,8 +285,7 @@
               "RelativeToolTip": "Nnovah.Application\\MappingProfile\\TechnicalPartnerProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T21:26:17.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T21:26:17.692Z"
             },
             {
               "$type": "Document",
@@ -299,8 +297,7 @@
               "RelativeToolTip": "Nnovah.Application\\Features\\Partner\\Queries\\GetPartnerDetail\\GetPartnerDetailQuerieHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:51:46.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T19:51:46.418Z"
             },
             {
               "$type": "Document",
@@ -312,8 +309,7 @@
               "RelativeToolTip": "Nnovah.Application\\Features\\Partner\\Queries\\GetPartner\\PartnerDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:09:35.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T13:09:35.632Z"
             },
             {
               "$type": "Document",
@@ -337,21 +333,19 @@
               "RelativeToolTip": "Nnovah.Application\\Features\\Partner\\Queries\\GetPartnerDetail\\GetPartnerDetailQuerie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:51:43.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T19:51:43.797Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Nnovah.Comunity.Application",
+              "Title": "Nnovah.Comunity.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Nnovah.Comunity.Application.csproj",
               "RelativeDocumentMoniker": "Nnovah.Application\\Nnovah.Comunity.Application.csproj",
               "ToolTip": "C:\\Users\\Laptop\\Documents\\comunidade\\NNOVAH_COMMUNITY_BACKEND\\NNOVAH_SERVER\\Nnovah.Application\\Nnovah.Comunity.Application.csproj",
               "RelativeToolTip": "Nnovah.Application\\Nnovah.Comunity.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-02T19:51:46.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T19:51:46.067Z"
             },
             {
               "$type": "Document",
